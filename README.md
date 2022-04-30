@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puntoquadrato
+- 👋 Hi, I’m @square-dot
 - 👀 I’m interested in Algorithms, Machine Learning, UX
 - 🌱 I’m currently learning Django, Julia
 
